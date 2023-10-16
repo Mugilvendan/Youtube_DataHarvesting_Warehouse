@@ -4,7 +4,7 @@
 ## Overview
   Python application is designed to collect, process, and analyze data from YouTube channels using the YouTube Data API. It leverages multiple data storage solutions, including MongoDB and PostgreSQL, to store and analyze the collected data. The primary components of this application include data retrieval from the API, data warehousing, and various data analysis functions.
 
-## Features(ETL Process)
+## ETL Process
 ### Data Collection Process: 
 You can input a YouTube channel ID, and the application will retrieve channel details, video details, and comment details from the YouTube Data API. The collected data is stored in a MongoDB database.
 ### Data Conversion Process:
