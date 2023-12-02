@@ -1,4 +1,4 @@
-# Youtube_DataHarvesting_Warehouse
+# Youtube_DataHarvesting_Warehousing
  A Python application is designed to collect, process, and analyze data from YouTube channels using the YouTube Data API, Python, Mongodb, SQL and Streamlit.
 
 ## Overview
